@@ -7,13 +7,11 @@ public class Character : MonoBehaviour
     private UIScript userInterface;
 
     Animator _anim;
-    AudioSource _audio;
     // Start is called before the first frame update
     void Start()
     {
         userInterface = GameObject.FindObjectOfType<UIScript>();
         _anim = GetComponent<Animator>();
-        _audio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -32,7 +30,6 @@ public class Character : MonoBehaviour
             }
             _anim.SetTrigger("Happy");
 
-            _audio.Play();
             // then destroy this object
             Destroy(collision.gameObject);
         }

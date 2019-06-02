@@ -7,13 +7,11 @@ public class Game : MonoBehaviour
     [SerializeField] GameObject _particle;
     [SerializeField] UIScript _uiScript;
 
-    AudioSource _audio;
     bool _gameEnd;
     // Start is called before the first frame update
     void Start()
     {
         _gameEnd = false;
-        _audio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -23,7 +21,6 @@ public class Game : MonoBehaviour
         if (_uiScript.GameClearFlag && !_gameEnd) {
             Instantiate(_particle);
             _gameEnd = true;
-            _audio.Play();
         }
     }
 
