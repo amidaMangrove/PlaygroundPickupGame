@@ -18,7 +18,6 @@ Unity Playgroundを使用したゲーム教材です。どうぞご自由にお�
 
 使用資料
 * 基本操作
-
 https://docs.google.com/presentation/d/1CvFh25ny70wJxth9_cGLQ31wCI875yFj5KJi7k_LgYk/edit?usp=sharing
 
 * 本サンプルゲームの資料
