@@ -1,7 +1,7 @@
 # PlaygroundPickupGame
 
-6月2日実施の「渋谷おとなりサンデー」で使用した教材ゲームです。
-隣の友達にお花を届けよう！
+Unity Playgroundを使用したゲーム教材です。
+友達にお花を届けよう！
 
 ![game](https://user-images.githubusercontent.com/5147047/58760355-8c1cb100-8571-11e9-8306-8c9dccfb0dba.PNG)
 
@@ -9,4 +9,10 @@
 スペースキー：お花をつかむ、はなす
 
 # ドキュメント
-https://docs.google.com/document/d/15BJSnMRAouktE9j2zXxGDm-q6A2_IYlhzKaO9-3VSBM/edit?usp=sharing
+* 最初に「サンプルゲームシーン」から起動し一通りゲームをプレイ。
+* その後「体験ゲーム」を以下の資料に沿って実施します。
+
+使用資料
+https://docs.google.com/presentation/d/1MW96hzI8umwb_ClYl6MNZEz2NP_o49BCHyBxGfARXfs/edit?usp=sharing
+
+
