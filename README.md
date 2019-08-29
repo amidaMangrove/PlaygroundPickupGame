@@ -1,10 +1,10 @@
 # PlaygroundPickupGame
 
-Unity Playgroundを使用したゲーム教材です。どうぞご自由にお使いください。
+Unity Playgroundを使用したゲーム教材です。どうぞごアレンジ含めご自由にお使いください。
 もし不明点や要望ありましたら[@amidaSawaguchi](https://twitter.com/amidaSawaguchi)までお願いします。
 
 
-友達にお花を届けよう！
+プレイヤーは花をつかんで、お友達に届けるのが目的です。忍び寄る花泥棒に注意！
 
 ![game](https://user-images.githubusercontent.com/5147047/58760355-8c1cb100-8571-11e9-8306-8c9dccfb0dba.PNG)
 
